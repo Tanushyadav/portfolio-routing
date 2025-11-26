@@ -17,7 +17,7 @@ It contains basic navigation and multiple pages to practice routing concepts.
 - React (Create React App)
 - React Router DOM
 - JavaScript
-- HTML & CSS (basic inline styling)
+- HTML & CSS
 
 ## 📦 Installation
 
